@@ -3,7 +3,7 @@
 A **dark terminal-inspired ToDo web app** built with **HTML, CSS, and JavaScript**.  
 Designed with a **hacker theme (green on black)** to match a terminal look.  
 
-🚀 Live Demo: [Click Here](https://your-live-link.netlify.app)  
+🚀 Live Demo: [Click Here](https://exquisite-pie-5113fb.netlify.app/)  
 📂 GitHub Repo: [Click Here](https://github.com/ksridhar-nist/todo-app)
 
 ---
